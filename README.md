@@ -35,3 +35,6 @@
 15. FIND THE SECOND-HIGHEST SALARY FOR EACH DEPARTMENT
 16. TO FIND EMPLOYEES WHOSE SALARIES ARE GREATER THAN THEIR MANAGERS' SALARIES WITHIN EACH DEPARTMENT
 17. Query to find cumlative salary of employee's department wise who have joined in last 30 days.
+18. 16. Write a query to calculate the retention rate of customers over a given time period.
+19. Create a query to find employees who have been with the company for more than 5 years but have never been promoted.
+
